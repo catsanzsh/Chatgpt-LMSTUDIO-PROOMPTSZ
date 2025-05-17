@@ -1,0 +1,2 @@
+# Chatgpt-LMSTUDIO-PROOMPTSZ
+1.0
